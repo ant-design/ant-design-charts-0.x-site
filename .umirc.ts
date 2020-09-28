@@ -7,6 +7,7 @@ export default defineConfig({
   publicPath: '/',
   exportStatic: {},
   logo: 'https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg',
+  hash: true,
   navs: [
     null,
     {
