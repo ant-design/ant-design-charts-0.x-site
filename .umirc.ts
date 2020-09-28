@@ -11,7 +11,7 @@ export default defineConfig({
     null,
     {
       title: '通用配置/高级',
-      path: 'https://g2plot.antv.vision/zh/examples/general/title-description',
+      path: 'https://g2plot-v1.antv.vision/zh/examples/general/title-description',
     },
     { title: 'GitHub', path: 'https://github.com/ant-design/ant-design-charts' },
   ],
