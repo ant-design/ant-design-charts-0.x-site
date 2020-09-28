@@ -18,5 +18,4 @@ export default defineConfig({
   analytics: {
     ga: 'UA-72788897-12',
   },
-  // more config: https://d.umijs.org/config
 });
