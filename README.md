@@ -150,7 +150,7 @@ result：
 
 ## Gallery
 
-[gallery](https://charts.ant.design/demos/global)
+[gallery](https://charts-v0.ant.design/demos/global)
 
 ## Document
 
@@ -167,7 +167,7 @@ Extra props:
 | style     | container style   | React.CSSProperties                         | -            |
 | memoData  | controll rerender | string \| number \| any []                  | -            |
 
-[More usage](https://charts.ant.design/guide/case)
+[More usage](https://charts-v0.ant.design/guide/case)
 
 ### [FAQ](https://github.com/ant-design/ant-design-charts/issues)
 
